@@ -36,24 +36,6 @@ O site possui um layout moderno, navegação simples e é totalmente adaptado pa
 
 ---
 
-## 📁 Estrutura do Projeto
-reh-beleza/
-│
-├── index.html
-├── styles.css
-├── responsividade.css
-├── script.js
-└── img/
-    ├── logo.png
-    ├── principal.png
-    ├── depoimento1.png
-    ├── depoimento2.png
-    ├── unnamed.png
-    └── demais imagens do site
-
-
----
-
 ## 📱 Responsividade
 
 O projeto se adapta automaticamente a diferentes tamanhos de tela:
