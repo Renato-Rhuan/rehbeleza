@@ -1,0 +1,38 @@
+@media screen and (max-width: 960px) {
+    .navbar{
+        display: none;
+    }
+
+    .icons{
+        display: none;
+    }
+
+    .icons-mobile img{
+        margin: 1rem;
+        cursor: pointer;
+        display: inline-block;
+    }
+
+    .icons-mobile img:hover {
+           width: 35px;
+           height: 35px;
+          
+    }
+
+    .icons-mobile .btn {
+        margin:  1rem;
+    }
+
+    .btn-abrir-menu {
+        display: block; /* mostrar no mobile */
+    }
+
+    .about .row{
+        flex-direction: column;
+    }
+
+    .about .row .container-img img{
+        width: 100%;
+    }
+    
+}
